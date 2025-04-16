@@ -4,8 +4,8 @@
 
 Here is our Ithaca Zoo example site.  View this site and critique these interactivity examples:
 
-- cookie banner on the `index.html` page
-- image gallery on the `popular.html` page
+- **cookie banner** interactivity on the `index.html` page
+- **image gallery** interactivity on the `popular.html` page
 
 ## VS Code and Development Server
 
